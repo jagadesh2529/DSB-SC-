@@ -78,6 +78,9 @@ Output Graph
 
 
 Tablular Column
+
+<img width="792" height="1280" alt="image" src="https://github.com/user-attachments/assets/d85f1a83-1c19-48fe-9607-26e04c20cbf1" />
+
 <img width="898" height="1280" alt="image" src="https://github.com/user-attachments/assets/b005f028-2818-466f-81f7-02893810f365" />
 
 
